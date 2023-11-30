@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T22:21:25.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="5O9-FTSvXwWfS4FzKvnA" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T20:36:13.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="NkbCNKRQR_eFB7eZnKvx" version="22.1.5" type="github">
   <diagram name="Page-1" id="135Mz8fbIhc5f4Y4-zg9">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,12 +359,6 @@
         </mxCell>
         <mxCell id="0w7jtVphP_o-tZDUtHK--34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;prescribed&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="55" y="298" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="0w7jtVphP_o-tZDUtHK--36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="0w7jtVphP_o-tZDUtHK--35" target="hziP3jtluFmY-buEPrSC-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0w7jtVphP_o-tZDUtHK--35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;medication average price&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="791.5" y="150" width="98.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0w7jtVphP_o-tZDUtHK--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="0w7jtVphP_o-tZDUtHK--41" target="hziP3jtluFmY-buEPrSC-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
